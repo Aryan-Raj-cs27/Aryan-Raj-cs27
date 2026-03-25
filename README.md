@@ -15,6 +15,12 @@
   <a href="https://github.com/Aryan-Raj-cs27?tab=followers">
     <img src="https://img.shields.io/github/followers/Aryan-Raj-cs27?style=for-the-badge&color=0ea5e9&labelColor=0f172a" alt="followers" />
   </a>
+  <a href="https://github.com/Aryan-Raj-cs27?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=7AA2F7&labelColor=0f172a&label=public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAryan-Raj-cs27" alt="public repos" />
+  </a>
+  <a href="https://gist.github.com/Aryan-Raj-cs27">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=14B8A6&labelColor=0f172a&label=public%20gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAryan-Raj-cs27" alt="public gists" />
+  </a>
 </p>
 
 ## About Me
@@ -29,12 +35,12 @@
 
 ## What I Am Building Right Now
 
-| Track | Focus | Direction |
-|---|---|---|
-| Major Project | IIDS: Hybrid ML Intrusion Detection | Data pipeline, model training, evaluation, integration |
-| Compiler Design | Java-based compiler phases | Lexer complete, parser phase in progress |
-| Web Technologies | EduBridge AI (Next.js) | Product-style enhancement and architecture refinement |
-| Deep Learning | Neural network assignments | Applied model training and experimentation |
+| Track            | Focus                               | Direction                                              |
+| ---------------- | ----------------------------------- | ------------------------------------------------------ |
+| Major Project    | IIDS: Hybrid ML Intrusion Detection | Data pipeline, model training, evaluation, integration |
+| Compiler Design  | Java-based compiler phases          | Lexer complete, parser phase in progress               |
+| Web Technologies | EduBridge AI (Next.js)              | Product-style enhancement and architecture refinement  |
+| Deep Learning    | Neural network assignments          | Applied model training and experimentation             |
 
 ## Featured Repositories
 
