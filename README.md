@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Aryan-Raj-cs27">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1100&color=14B8A6&center=true&vCenter=true&width=920&lines=CS+Undergrad+(AIML)+%7C+Systems-Minded+Builder;Java+%2B+Python+%2B+Web+Engineering;IIDS+Hybrid+ML+%7C+Compiler+Design+%7C+EduBridge+AI;From+foundations+to+shipping+projects+that+work" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&weight=700&pause=500&color=7AA2F7&center=true&vCenter=true&width=920&lines=CS+Undergrad+(AIML)+%7C+Systems-Minded+Builder;Java+%2B+Python+%2B+Web+Engineering;IIDS+Hybrid+ML+%7C+Compiler+Design+%7C+EduBridge+AI;From+foundations+to+shipping+projects+that+work" alt="typing intro" />
   </a>
 </p>
 
@@ -15,20 +15,17 @@
   <a href="https://github.com/Aryan-Raj-cs27?tab=followers">
     <img src="https://img.shields.io/github/followers/Aryan-Raj-cs27?style=for-the-badge&color=0ea5e9&labelColor=0f172a" alt="followers" />
   </a>
-  <a href="https://www.linkedin.com/in/aryan-raj-cs27/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
 </p>
 
 ## About Me
 
-I am a Computer Science undergrad (AIML) who likes building structured, practical systems.
-
-- ⚙️ Currently developing an Intrusion Detection System with a hybrid ML pipeline.
-- 🚀 Building across domains: deep learning, compiler design, computer vision, and web apps.
-- 🧠 Completed an AI and Generative AI internship track with hands-on model and tooling work.
-- 🧩 Strong focus on clean architecture, readable code, and versioned project workflows.
-- 💻 Actively sharpening DSA and backend engineering fundamentals.
+> I am a Computer Science undergrad (AIML) who likes building structured, practical systems.
+>
+> - ⚙️ Currently developing an Intrusion Detection System with a hybrid ML pipeline.
+> - 🚀 Building across domains: deep learning, compiler design, computer vision, and web apps.
+> - 🧠 Completed an AI and Generative AI internship track with hands-on model and tooling work.
+> - 🧩 Strong focus on clean architecture, readable code, and versioned project workflows.
+> - 💻 Actively sharpening DSA and backend engineering fundamentals.
 
 ## What I Am Building Right Now
 
@@ -82,7 +79,6 @@ I am a Computer Science undergrad (AIML) who likes building structured, practica
   <img src="https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk&logoColor=F59E0B" alt="Java" />
   <img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Kotlin-1f2937?style=for-the-badge&logo=kotlin&logoColor=A78BFA" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Next.js-1f2937?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-1f2937?style=for-the-badge&logo=react&logoColor=22D3EE" alt="React" />
   <img src="https://img.shields.io/badge/TensorFlow-1f2937?style=for-the-badge&logo=tensorflow&logoColor=FB923C" alt="TensorFlow" />
@@ -96,32 +92,32 @@ I am a Computer Science undergrad (AIML) who likes building structured, practica
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-Raj-cs27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" width="32.3%" />
-  <img src="https://streak-stats.demolab.com?user=Aryan-Raj-cs27&theme=tokyonight&hide_border=true" alt="streak" width="32.3%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Raj-cs27&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" width="32.3%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-Raj-cs27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" width="49%" height="195" />
+  <img src="https://streak-stats.demolab.com?user=Aryan-Raj-cs27&theme=tokyonight&hide_border=true" alt="streak" width="49%" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Raj-cs27&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" width="49%" height="195" />
 </p>
 
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aryan-Raj-cs27/Aryan-Raj-cs27/d1a41f4f3aeb6af14f605945764f9d4ab5308740/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Aryan-Raj-cs27/Aryan-Raj-cs27/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ## Build Philosophy
 
-- 🧱 Understand the fundamentals first, then scale implementation complexity.
-- 🛠️ Keep codebases modular so each phase can be tested and improved independently.
-- 📌 Prefer practical outputs: working demos, clear docs, reproducible setup steps.
-- 🔍 Treat Git history as engineering evidence, not just backup.
+> - 🧱 Understand the fundamentals first, then scale implementation complexity.
+> - 🛠️ Keep codebases modular so each phase can be tested and improved independently.
+> - 📌 Prefer practical outputs: working demos, clear docs, reproducible setup steps.
+> - 🔍 Treat Git history as engineering evidence, not just backup.
 
 ## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-raj-cs27/">
     <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin profile" />
-  </a>
-  <a href="https://github.com/Aryan-Raj-cs27">
-    <img src="https://img.shields.io/badge/GitHub-Aryan--Raj--cs27-181717?style=for-the-badge&logo=github&logoColor=white" alt="github profile" />
   </a>
 </p>
 
