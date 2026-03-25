@@ -18,9 +18,6 @@
   <a href="https://github.com/Aryan-Raj-cs27?tab=repositories">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=7AA2F7&labelColor=0f172a&label=public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAryan-Raj-cs27" alt="public repos" />
   </a>
-  <a href="https://gist.github.com/Aryan-Raj-cs27">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=14B8A6&labelColor=0f172a&label=public%20gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAryan-Raj-cs27" alt="public gists" />
-  </a>
 </p>
 
 ## About Me
