@@ -47,18 +47,18 @@
       <a href="https://github.com/Aryan-Raj-cs27/AI-Virtual-Mouse">Open Repository</a>
     </td>
     <td width="50%">
-      <h3>aiml-internship-portfolio</h3>
-      Multi-unit Google AIML pathway covering TensorFlow notebooks, Android ML Kit, and product search flows.
+      <h3>Aryan_Raj_CS-2341005_IILM_GN</h3>
+      Python work and submissions archive (coursework + practice) with clear versioned updates.
       <br/><br/>
-      <a href="https://github.com/Aryan-Raj-cs27/aiml-internship-portfolio">Open Repository</a>
+      <a href="https://github.com/Aryan-Raj-cs27/Aryan_Raj_CS-2341005_IILM_GN">Open Repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>BattleQuest-Character-System</h3>
-      Java OOP character framework reflecting systems-first design and object modeling practice.
+      <h3>Aryan-Raj-cs27</h3>
+      Profile README + automation (including the contribution snake) that powers this dashboard.
       <br/><br/>
-      <a href="https://github.com/Aryan-Raj-cs27/BattleQuest-Character-System">Open Repository</a>
+      <a href="https://github.com/Aryan-Raj-cs27/Aryan-Raj-cs27">Open Repository</a>
     </td>
     <td width="50%">
       <h3>Java-Systems-Foundation</h3>
