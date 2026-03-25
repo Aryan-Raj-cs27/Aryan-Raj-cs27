@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Aryan-Raj-cs27">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&weight=700&pause=500&color=7AA2F7&center=true&vCenter=true&width=920&lines=CS+Undergrad+(AIML)+%7C+Systems-Minded+Builder;Java+%2B+Python+%2B+Web+Engineering;IIDS+Hybrid+ML+%7C+Compiler+Design+%7C+EduBridge+AI;From+foundations+to+shipping+projects+that+work" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&weight=700&pause=500&color=7AA2F7&cursorColor=7AA2F7&center=true&vCenter=true&width=920&lines=CS+Undergrad+(AIML)+%7C+Systems-Minded+Builder;Java+%2B+Python+%2B+Web+Engineering;IIDS+Hybrid+ML+%7C+Compiler+Design+%7C+EduBridge+AI;From+foundations+to+shipping+projects+that+work" alt="typing intro" />
   </a>
 </p>
 
@@ -97,7 +97,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Raj-cs27&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" width="49%" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Raj-cs27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=650" alt="top languages" width="90%" />
 </p>
 
 ## Contribution Snake
