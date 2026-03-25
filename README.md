@@ -108,7 +108,7 @@ I am a Computer Science undergrad (AIML) who likes building structured, practica
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aryan-Raj-cs27/Aryan-Raj-cs27/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Aryan-Raj-cs27/Aryan-Raj-cs27/d1a41f4f3aeb6af14f605945764f9d4ab5308740/github-contribution-grid-snake-dark.svg" />
 </p>
 
 To enable this animation, keep the workflow file at `.github/workflows/snake.yml` and ensure GitHub Actions is enabled for this repository.
