@@ -101,17 +101,11 @@ I am a Computer Science undergrad (AIML) who likes building structured, practica
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Raj-cs27&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" width="32.3%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Raj-cs27&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="98%" />
-</p>
-
 ## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aryan-Raj-cs27/Aryan-Raj-cs27/d1a41f4f3aeb6af14f605945764f9d4ab5308740/github-contribution-grid-snake-dark.svg" />
 </p>
-
-To enable this animation, keep the workflow file at `.github/workflows/snake.yml` and ensure GitHub Actions is enabled for this repository.
 
 ## Build Philosophy
 
