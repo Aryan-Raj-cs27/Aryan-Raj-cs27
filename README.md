@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Aryan%20Raj&fontAlign=50&fontAlignY=35&desc=Building%20intelligent%20systems%20with%20clean%20engineering&descAlign=50&descAlignY=55&color=0:0f172a,30:0b3b60,70:0f766e,100:f59e0b&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Aryan%20Raj&fontAlign=50&fontAlignY=35&desc=Building%20systems%20with%20clean%20architecture&descAlign=50&descAlignY=55&color=0:0f172a,30:0b3b60,70:0f766e,100:f59e0b&fontColor=ffffff" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Aryan-Raj-cs27">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&weight=700&pause=500&color=7AA2F7&cursorColor=7AA2F7&center=true&vCenter=true&width=920&lines=CS+Undergrad+(AIML)+%7C+Systems-Minded+Builder;Java+%2B+Python+%2B+Web+Engineering;IIDS+Hybrid+ML+%7C+Compiler+Design+%7C+EduBridge+AI;From+foundations+to+shipping+projects+that+work" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=500&color=14B8A6&center=true&vCenter=true&width=920&lines=CS+Undergrad+(AIML)+%7C+Backend+%26+Systems;Java+%2B+Python+%2B+Vanilla+Web;Building+EduBridge+%7C+Java+Parsers;Focusing+on+core+engineering+fundamentals" alt="typing intro" />
   </a>
 </p>
 
@@ -15,59 +15,40 @@
   <a href="https://github.com/Aryan-Raj-cs27?tab=followers">
     <img src="https://img.shields.io/github/followers/Aryan-Raj-cs27?style=for-the-badge&color=0ea5e9&labelColor=0f172a" alt="followers" />
   </a>
-  <a href="https://github.com/Aryan-Raj-cs27?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=7AA2F7&labelColor=0f172a&label=public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAryan-Raj-cs27" alt="public repos" />
-  </a>
 </p>
 
 ## About Me
 
-> I am a Computer Science undergrad (AIML) who likes building structured, practical systems.
+> I am a Computer Science undergrad (AIML) focusing on strong backend fundamentals and practical web architecture.
 >
-> - ⚙️ Currently developing an Intrusion Detection System with a hybrid ML pipeline.
-> - 🚀 Building across domains: deep learning, compiler design, computer vision, and web apps.
-> - 🧠 Completed an AI and Generative AI internship track with hands-on model and tooling work.
-> - 🧩 Strong focus on clean architecture, readable code, and versioned project workflows.
-> - 💻 Actively sharpening DSA and backend engineering fundamentals.
+> - ⚙️ Currently acting as team lead for a hybrid ML Intrusion Detection System (IIDS) major project.
+> - 🚀 Building a solid foundation in Java, from core OOP concepts to compiler design phase logic.
+> - 🧩 Developing "EduBridge" using Vanilla Web Technologies (HTML/CSS/JS) to master front-end basics before jumping into heavy frameworks.
+> - 💻 Actively sharpening Data Structures & Algorithms (DSA) to write more efficient code.
 
 ## What I Am Building Right Now
 
-| Track            | Focus                               | Direction                                              |
-| ---------------- | ----------------------------------- | ------------------------------------------------------ |
-| Major Project    | IIDS: Hybrid ML Intrusion Detection | Data pipeline, model training, evaluation, integration |
-| Compiler Design  | Java-based compiler phases          | Lexer complete, parser phase in progress               |
-| Web Technologies | EduBridge AI (Next.js)              | Product-style enhancement and architecture refinement  |
-| Deep Learning    | Neural network assignments          | Applied model training and experimentation             |
+| Track | Focus | Direction |
+|---|---|---|
+| Web Technologies | EduBridge | Core vanilla web architecture (HTML/CSS/JS) implementation |
+| Backend / Systems | Java Foundation | Mastering core Java concepts, OOP, and syntax parsers |
+| Major Project | IIDS: Intrusion Detection | Coordinating a 5-person team to build a hybrid ML pipeline |
 
 ## Featured Repositories
 
 <table>
   <tr>
     <td width="50%">
+      <h3>Java-Systems-Foundation</h3>
+      Archive of 5+ years of Java development. From basic console logic to intermediate OOPs and data structures.
+      <br/><br/>
+      <a href="https://github.com/Aryan-Raj-cs27/Java-Systems-Foundation">Open Repository</a>
+    </td>
+    <td width="50%">
       <h3>AI-Virtual-Mouse</h3>
       Contactless HCI with Python, OpenCV, and MediaPipe for gesture-driven cursor control.
       <br/><br/>
       <a href="https://github.com/Aryan-Raj-cs27/AI-Virtual-Mouse">Open Repository</a>
-    </td>
-    <td width="50%">
-      <h3>Aryan_Raj_CS-2341005_IILM_GN</h3>
-      Python work and submissions archive (coursework + practice) with clear versioned updates.
-      <br/><br/>
-      <a href="https://github.com/Aryan-Raj-cs27/Aryan_Raj_CS-2341005_IILM_GN">Open Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Aryan-Raj-cs27</h3>
-      Profile README + automation (including the contribution snake) that powers this dashboard.
-      <br/><br/>
-      <a href="https://github.com/Aryan-Raj-cs27/Aryan-Raj-cs27">Open Repository</a>
-    </td>
-    <td width="50%">
-      <h3>Java-Systems-Foundation</h3>
-      Long-range archive of Java progression across school and B.Tech phases.
-      <br/><br/>
-      <a href="https://github.com/Aryan-Raj-cs27/Java-Systems-Foundation">Open Repository</a>
     </td>
   </tr>
 </table>
@@ -82,12 +63,8 @@
   <img src="https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk&logoColor=F59E0B" alt="Java" />
   <img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Next.js-1f2937?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-1f2937?style=for-the-badge&logo=react&logoColor=22D3EE" alt="React" />
-  <img src="https://img.shields.io/badge/TensorFlow-1f2937?style=for-the-badge&logo=tensorflow&logoColor=FB923C" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/OpenCV-1f2937?style=for-the-badge&logo=opencv&logoColor=22C55E" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/MediaPipe-1f2937?style=for-the-badge&logo=google&logoColor=14B8A6" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-1f2937?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/HTML5-1f2937?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1f2937?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-1f2937?style=for-the-badge&logo=git&logoColor=F97316" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
 </p>
@@ -95,12 +72,12 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-Raj-cs27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" width="49%" height="195" />
-  <img src="https://streak-stats.demolab.com?user=Aryan-Raj-cs27&theme=tokyonight&hide_border=true" alt="streak" width="49%" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-Raj-cs27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="stats" height="195" />
+  <img src="https://streak-stats.demolab.com?user=Aryan-Raj-cs27&theme=tokyonight&hide_border=true" alt="streak" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Raj-cs27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=650" alt="top languages" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Raj-cs27&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
 
 ## Contribution Snake
