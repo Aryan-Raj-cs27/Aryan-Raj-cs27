@@ -31,7 +31,6 @@
 | Track | Focus | Direction |
 |---|---|---|
 | Web Technologies | EduBridge | Production-style Next.js + React implementation for 6th-sem Web Tech |
-| AI/ML Internship | Google AIML Portfolio | TensorFlow notebooks + Android ML Kit/TFLite codelabs |
 | Backend / Systems | Java Foundation | Mastering core Java concepts, OOP, and syntax parsers |
 | Major Project | IIDS: Intrusion Detection | Coordinating a 5-person team to build a hybrid ML pipeline |
 
@@ -60,10 +59,10 @@
       <a href="https://github.com/Aryan-Raj-cs27/EduBridge">Open Repository</a>
     </td>
     <td width="50%">
-      <h3>IIDS-Hybrid-ML</h3>
-      Major project focused on a hybrid ML pipeline for intrusion detection with staged architecture.
+      <h3>Compiler-Design-PBL</h3>
+      Compiler design implementation work covering lexical analysis and recursive-descent parsing.
       <br/><br/>
-      <a href="https://github.com/Aryan-Raj-cs27/IIDS-Hybrid-ML">Open Repository</a>
+      <a href="https://github.com/Aryan-Raj-cs27/Compiler-Design-PBL">Open Repository</a>
     </td>
   </tr>
 </table>
@@ -87,7 +86,7 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-Raj-cs27&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="stats" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryan-Raj-cs27&theme=tokyonight" alt="stats" height="195" />
   <img src="https://streak-stats.demolab.com?user=Aryan-Raj-cs27&theme=tokyonight&hide_border=true" alt="streak" height="195" />
 </p>
 
