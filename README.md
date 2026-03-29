@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Aryan-Raj-cs27">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=500&color=14B8A6&center=true&vCenter=true&width=920&lines=CS+Undergrad+(AIML)+%7C+Backend+%26+Systems;Java+%2B+Python+%2B+Vanilla+Web;Building+EduBridge+%7C+Java+Parsers;Focusing+on+core+engineering+fundamentals" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=500&color=14B8A6&center=true&vCenter=true&width=920&lines=CS+Undergrad+(AIML)+%7C+Backend+%26+Systems;Java+%2B+Python+%2B+Next.js+Web;Building+EduBridge+%7C+IIDS+Hybrid+ML;Focusing+on+core+engineering+fundamentals" alt="typing intro" />
   </a>
 </p>
 
@@ -23,14 +23,15 @@
 >
 > - ⚙️ Currently acting as team lead for a hybrid ML Intrusion Detection System (IIDS) major project.
 > - 🚀 Building a solid foundation in Java, from core OOP concepts to compiler design phase logic.
-> - 🧩 Developing "EduBridge" using Vanilla Web Technologies (HTML/CSS/JS) to master front-end basics before jumping into heavy frameworks.
+> - 🧩 Developing "EduBridge" as a Next.js + React web platform, with a production-style UI and engineering workflow.
 > - 💻 Actively sharpening Data Structures & Algorithms (DSA) to write more efficient code.
 
 ## What I Am Building Right Now
 
 | Track | Focus | Direction |
 |---|---|---|
-| Web Technologies | EduBridge | Core vanilla web architecture (HTML/CSS/JS) implementation |
+| Web Technologies | EduBridge | Production-style Next.js + React implementation for 6th-sem Web Tech |
+| AI/ML Internship | Google AIML Portfolio | TensorFlow notebooks + Android ML Kit/TFLite codelabs |
 | Backend / Systems | Java Foundation | Mastering core Java concepts, OOP, and syntax parsers |
 | Major Project | IIDS: Intrusion Detection | Coordinating a 5-person team to build a hybrid ML pipeline |
 
@@ -49,6 +50,20 @@
       Contactless HCI with Python, OpenCV, and MediaPipe for gesture-driven cursor control.
       <br/><br/>
       <a href="https://github.com/Aryan-Raj-cs27/AI-Virtual-Mouse">Open Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>EduBridge</h3>
+      Web Technologies project using Next.js 15, React 19, and Tailwind CSS with modern UX polish.
+      <br/><br/>
+      <a href="https://github.com/Aryan-Raj-cs27/EduBridge">Open Repository</a>
+    </td>
+    <td width="50%">
+      <h3>IIDS-Hybrid-ML</h3>
+      Major project focused on a hybrid ML pipeline for intrusion detection with staged architecture.
+      <br/><br/>
+      <a href="https://github.com/Aryan-Raj-cs27/IIDS-Hybrid-ML">Open Repository</a>
     </td>
   </tr>
 </table>
@@ -72,7 +87,7 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-Raj-cs27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-Raj-cs27&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="stats" height="195" />
   <img src="https://streak-stats.demolab.com?user=Aryan-Raj-cs27&theme=tokyonight&hide_border=true" alt="streak" height="195" />
 </p>
 
