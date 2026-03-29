@@ -32,6 +32,7 @@
 |---|---|---|
 | Web Technologies | EduBridge | Production-style Next.js + React implementation for 6th-sem Web Tech |
 | Backend / Systems | Java Foundation | Mastering core Java concepts, OOP, and syntax parsers |
+| Compiler Design | Parser + Lexical Modules | Implementing tokenization and recursive-descent parsing with Java |
 | Major Project | IIDS: Intrusion Detection | Coordinating a 5-person team to build a hybrid ML pipeline |
 
 ## Featured Repositories
