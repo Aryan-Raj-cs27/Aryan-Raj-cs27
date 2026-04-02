@@ -72,27 +72,18 @@
   <a href="https://github.com/Aryan-Raj-cs27?tab=repositories"><b>Explore all repositories</b></a>
 </p>
 
-## Engineering Stack
+### 🛠 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk&logoColor=F59E0B" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-1f2937?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1f2937?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-1f2937?style=for-the-badge&logo=git&logoColor=F97316" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,ts,nextjs,react,tailwind,git,github,vscode&theme=dark" alt="tech stack" />
 </p>
 
 ## GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryan-Raj-cs27&theme=tokyonight" alt="stats" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aryan-Raj-cs27&theme=tokyonight" alt="top languages" height="195" />
   <img src="https://streak-stats.demolab.com?user=Aryan-Raj-cs27&theme=tokyonight&hide_border=true" alt="streak" height="195" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Raj-cs27&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
 
 ## Contribution Snake
@@ -108,11 +99,14 @@
 > - 📌 Prefer practical outputs: working demos, clear docs, reproducible setup steps.
 > - 🔍 Treat Git history as engineering evidence, not just backup.
 
-## Connect
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryan-raj-cs27/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin profile" />
+  <a href="https://www.linkedin.com/in/aryan-raj-cs27/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="50" />
+  </a>
+  <a href="mailto:aryan.raj.cs27@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="50" />
   </a>
 </p>
 
