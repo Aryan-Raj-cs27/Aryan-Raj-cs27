@@ -74,12 +74,65 @@
 
 ### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,ts,nextjs,react,tailwind,git,github,vscode&theme=dark" alt="Tech Stack Icons" />
-</p>
-<p align="center">
-  <sub>Python • Java • C • JavaScript • HTML5 • CSS3 • TypeScript • Next.js • React • TailwindCSS • Git • GitHub • VS Code</sub>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" /><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" /><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" alt="C" title="C" /><br/>
+      <sub><b>C</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" /><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" /><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" /><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" /><br/>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" /><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" title="TailwindCSS" /><br/>
+      <sub><b>TailwindCSS</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" /><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="96"></td>
+  </tr>
+</table>
 
 ## GitHub Analytics
 
