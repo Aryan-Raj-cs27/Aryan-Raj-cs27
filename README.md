@@ -130,7 +130,10 @@
       <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" /><br/>
       <sub><b>VS Code</b></sub>
     </td>
-    <td align="center" width="96"></td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" /><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
   </tr>
 </table>
 
@@ -158,11 +161,11 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryan-raj-cs27/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="50" />
+  <a href="https://www.linkedin.com/in/aryan-raj-cs27/" target="_blank" title="LinkedIn: Aryan Raj (aryan-raj-cs27)">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" title="LinkedIn: Aryan Raj (aryan-raj-cs27)" height="50" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aryan.raj.cs27@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="50" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aryan.raj.cs27@gmail.com" target="_blank" title="Email: aryan.raj.cs27@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" title="Email: aryan.raj.cs27@gmail.com" height="50" />
   </a>
 </p>
 
