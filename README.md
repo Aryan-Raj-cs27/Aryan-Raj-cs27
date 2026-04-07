@@ -75,7 +75,10 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,ts,nextjs,react,tailwind,git,github,vscode&theme=dark" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,ts,nextjs,react,tailwind,git,github,vscode&theme=dark" alt="Tech Stack Icons" />
+</p>
+<p align="center">
+  <sub>Python • Java • C • JavaScript • HTML5 • CSS3 • TypeScript • Next.js • React • TailwindCSS • Git • GitHub • VS Code</sub>
 </p>
 
 ## GitHub Analytics
@@ -105,7 +108,7 @@
   <a href="https://www.linkedin.com/in/aryan-raj-cs27/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="50" />
   </a>
-  <a href="mailto:aryan.raj.cs27@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aryan.raj.cs27@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="50" />
   </a>
 </p>
