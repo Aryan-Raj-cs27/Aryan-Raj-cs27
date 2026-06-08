@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Aryan-Raj-cs27">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=500&color=14B8A6&center=true&vCenter=true&width=920&lines=CS+Undergrad+(AIML)+%7C+Backend+%26+Systems;Java+%2B+Python+%2B+Next.js+Web;Building+EduBridge+%7C+IIDS+Hybrid+ML;Focusing+on+core+engineering+fundamentals" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=500&color=14B8A6&center=true&vCenter=true&width=920&lines=Backend+%26+AI+Software+Engineer;5%2B+Years+Java+Foundations;Architecting+ML+Pipelines+%7C+Python;Building+Scalable+Data-Driven+Systems" alt="typing intro" />
   </a>
 </p>
 
@@ -19,21 +19,21 @@
 
 ## About Me
 
-> I am a Computer Science undergrad (AIML) focusing on strong backend fundamentals and practical web architecture.
+> I am a Software Engineer specializing in AI & Machine Learning with 5+ years of Java experience. I design and deliver scalable, data-driven systems and production-ready machine learning pipelines.
 >
-> - ⚙️ Currently acting as team lead for a hybrid ML Intrusion Detection System (IIDS) major project.
-> - 🚀 Building a solid foundation in Java, from core OOP concepts to compiler design phase logic.
-> - 🧩 Developing "EduBridge" as a Next.js + React web platform, with a production-style UI and engineering workflow.
-> - 💻 Actively sharpening Data Structures & Algorithms (DSA) to write more efficient code.
+> - ⚙️ Lead engineer for a hybrid ML Intrusion Detection System (IIDS): system architecture, pipeline orchestration, and production deployment.
+> - 🚀 Strong expertise in Data Structures & Algorithms, designing performant backend logic and robust service abstractions.
+> - 🧩 Architect and implement multi-stage ML pipelines in Python, covering feature engineering, model training, serving, and monitoring.
+> - 💻 Build and operate full-stack scalable web platforms using Next.js and modern frontend frameworks, with CI/CD and observability.
 
 ## What I Am Building Right Now
 
-| Track | Focus | Direction |
-|---|---|---|
-| Web Technologies | EduBridge | Production-style Next.js + React implementation for 6th-sem Web Tech |
-| Backend / Systems | Java Foundation | Mastering core Java concepts, OOP, and syntax parsers |
-| Compiler Design | Parser + Lexical Modules | Implementing tokenization and recursive-descent parsing with Java |
-| Major Project | IIDS: Intrusion Detection | Coordinating a 5-person team to build a hybrid ML pipeline |
+| Track             | Focus                     | Direction                                                            |
+| ----------------- | ------------------------- | -------------------------------------------------------------------- |
+| Web Technologies  | EduBridge                 | Production-grade Next.js + Tailwind CSS platform with live deployment and CI-driven workflow |
+| Backend / Systems | Java Foundation           | Robust Java systems: advanced OOP, concurrent data structures, and backend service logic |
+| Compiler Design   | Compiler Design           | Lexical analysis, syntax tree construction, and three-address code (TAC) generation for compiler pipelines |
+| Major Project     | IIDS: Network Traffic Engine (<a href="https://iids-backend.onrender.com/" target="_blank">Live</a>) | Leading a team to build and deploy a real-time network traffic analysis and anomaly detection engine |
 
 ## Featured Repositories
 
@@ -41,27 +41,29 @@
   <tr>
     <td width="50%">
       <h3>Java-Systems-Foundation</h3>
-      Archive of 5+ years of Java development. From basic console logic to intermediate OOPs and data structures.
+      Collection of production-style Java modules: advanced OOP, data structures, concurrent systems, and backend utilities used across projects.
       <br/><br/>
       <a href="https://github.com/Aryan-Raj-cs27/Java-Systems-Foundation">Open Repository</a>
     </td>
     <td width="50%">
       <h3>AI-Virtual-Mouse</h3>
-      Contactless HCI with Python, OpenCV, and MediaPipe for gesture-driven cursor control.
+      Gesture-driven HCI prototype: Python, OpenCV, and MediaPipe; real-time CV pipeline with signal processing and low-latency control integration.
       <br/><br/>
       <a href="https://github.com/Aryan-Raj-cs27/AI-Virtual-Mouse">Open Repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>EduBridge</h3>
-      Web Technologies project using Next.js 15, React 19, and Tailwind CSS with modern UX polish.
+      <h3>EduBridge (<a href="https://edu-bridge-ashy.vercel.app/" target="_blank">Live</a>)</h3>
+      Next.js + Tailwind web platform with production deployment, component-driven architecture, SSR/ISR patterns, and CI/CD.
       <br/><br/>
       <a href="https://github.com/Aryan-Raj-cs27/EduBridge">Open Repository</a>
+      <br/><br/>
+      <b><a href="https://edu-bridge-ashy.vercel.app/" target="_blank">Live Deployment</a></b>
     </td>
     <td width="50%">
       <h3>Compiler-Design-PBL</h3>
-      Compiler design implementation work covering lexical analysis and recursive-descent parsing.
+      Compiler implementation: lexical analysis, AST construction, and three-address code (TAC) generation with example passes and tests.
       <br/><br/>
       <a href="https://github.com/Aryan-Raj-cs27/Compiler-Design-PBL">Open Repository</a>
     </td>
@@ -153,10 +155,10 @@
 
 ## Build Philosophy
 
-> - 🧱 Understand the fundamentals first, then scale implementation complexity.
-> - 🛠️ Keep codebases modular so each phase can be tested and improved independently.
-> - 📌 Prefer practical outputs: working demos, clear docs, reproducible setup steps.
-> - 🔍 Treat Git history as engineering evidence, not just backup.
+> - Architect systems for scale and operability: design for failure, observability, and horizontal scaling.
+> - Prioritize clean, maintainable code: clear abstractions, comprehensive tests, and continuous integration.
+> - Optimize for algorithmic efficiency and predictable performance across large datasets and high throughput.
+> - Ship incrementally to production with automated pipelines, monitoring, and rollback strategies.
 
 ### 🌐 Connect With Me
 
