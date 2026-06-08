@@ -30,7 +30,7 @@
 
 | Track             | Focus                     | Direction                                                            |
 | ----------------- | ------------------------- | -------------------------------------------------------------------- |
-| Web Technologies  | EduBridge                 | Production-grade Next.js + Tailwind CSS platform with live deployment and CI-driven workflow |
+| Web Technologies  | EduBridge (<a href="https://edu-bridge-ashy.vercel.app/" target="_blank">Live</a>) | Production-grade Next.js + Tailwind CSS platform with live deployment and CI-driven workflow |
 | Backend / Systems | Java Foundation           | Robust Java systems: advanced OOP, concurrent data structures, and backend service logic |
 | Compiler Design   | Compiler Design           | Lexical analysis, syntax tree construction, and three-address code (TAC) generation for compiler pipelines |
 | Major Project     | IIDS: Network Traffic Engine (<a href="https://iids-backend.onrender.com/" target="_blank">Live</a>) | Leading a team to build and deploy a real-time network traffic analysis and anomaly detection engine |
